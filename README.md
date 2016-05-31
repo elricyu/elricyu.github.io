@@ -1,0 +1,2 @@
+# elricyu.github.io
+blog
